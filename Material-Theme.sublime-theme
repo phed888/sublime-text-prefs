@@ -1,0 +1,19 @@
+// Documentation at https://www.sublimetext.com/docs/themes.html
+{
+	"variables":
+	{
+	},
+
+	"rules":
+	[
+		{
+      "class": "sidebar_label",
+      "color": [96, 125, 139],
+      "font.bold": false,
+      "font.italic": false,
+      "shadow_color": [255, 255, 255, 0],
+      "shadow_offset": [0, 0],
+      "font.size": 14,
+    },
+	]
+}

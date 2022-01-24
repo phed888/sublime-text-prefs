@@ -1,0 +1,18 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"Babel",
+		"Babel Snippets",
+		"Emmet",
+		"Material Theme",
+		"Naomi",
+		"Nodejs",
+		"Package Control",
+		"SideBarTools",
+	],
+}

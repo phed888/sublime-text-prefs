@@ -1,0 +1,28 @@
+// Settings in here override those in "Default/Preferences.sublime-settings",
+// and are overridden in turn by syntax-specific settings.
+{
+	"font_face": "JetBrains Mono",
+	"font_size": 13,
+	"tab_size": 2,
+	"highlight_line": true,
+	"line_padding_top": 2,
+	"line_padding_bottom": 1,
+	"ignored_packages":
+	[
+		"Naomi",
+		"Vintage",
+	],
+	"color_scheme": "Packages/Material Theme/schemes/Material-Theme.tmTheme",
+	"material_theme_accent_scrollbars": true,
+	"material_theme_accent_titlebar": true,
+	/*"material_theme_big_fileicons": true,*/
+	"material_theme_bright_scrollbars": true,
+	"material_theme_compact_panel": true,
+	"material_theme_panel_separator": true,
+	"material_theme_small_statusbar": true,
+	"material_theme_tabs_autowidth": true,
+	"material_theme_titlebar": true,
+	"theme": "Material-Theme.sublime-theme",
+	/*"material_theme_tree_headings": true,*/
+	"material_theme_contrast_mode": true,
+}
