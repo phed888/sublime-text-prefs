@@ -2,13 +2,14 @@
 // and are overridden in turn by syntax-specific settings.
 {
 	"font_face": "JetBrains Mono",
-	"font_size": 13,
+	"font_size": 14,
 	"tab_size": 2,
 	"highlight_line": true,
 	"line_padding_top": 2,
-	"line_padding_bottom": 1,
+	"line_padding_bottom": 2,
 	"ignored_packages":
 	[
+		"Markdown",
 		"Naomi",
 		"Vintage",
 	],
