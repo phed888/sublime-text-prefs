@@ -25,4 +25,5 @@
 	"theme": "Material-Theme.sublime-theme",
 	/*"material_theme_tree_headings": true,*/
 	"material_theme_contrast_mode": true,
+	"draw_minimap_border": true,
 }
