@@ -6,9 +6,12 @@
 	"installed_packages":
 	[
 		"A File Icon",
+		"AlignTab",
 		"Babel",
 		"Babel Snippets",
 		"Emmet",
+		"ESLint",
+		"FuzzyFilePath",
 		"GitHub Markdown Snippets",
 		"MarkdownEditing",
 		"Material Theme",
@@ -16,6 +19,7 @@
 		"Nodejs",
 		"Origami",
 		"Package Control",
-		"SideBarTools",
+		"SideBarEnhancements",
+		"SublimeLinter",
 	],
 }
